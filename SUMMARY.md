@@ -18,6 +18,7 @@
   * [Fleetbase Storefront One Pager](technology-roadmap/btab-marketplace-solution/fleetbase-storefront-one-pager.md)
   * [Fleetbase Storefront - Logistics Company Use Case](technology-roadmap/btab-marketplace-solution/fleetbase-storefront-logistics-company-use-case.md)
 * [Jira Planning](technology-roadmap/jira-planning.md)
+* [Product Catalog](technology-roadmap/product-catalog.md)
 
 ## Industry Outlook
 
